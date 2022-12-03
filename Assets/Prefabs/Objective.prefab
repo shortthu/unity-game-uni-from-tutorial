@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 95903071313222836}
   - component: {fileID: 61886490721092260}
   - component: {fileID: 2913193270294406980}
-  - component: {fileID: 568434071463729269}
+  - component: {fileID: 586829972}
   m_Layer: 0
   m_Name: Objective
   m_TagString: Untagged
@@ -150,7 +150,7 @@ MonoBehaviour:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Scene","value":{"$content":"Level2","$type":"System.String"},"typeHandle":{"Identification":"System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
---- !u!114 &568434071463729269
+--- !u!114 &586829972
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -159,10 +159,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1340254090866780}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: efe58df89b5b74a97a123b5ed2b70422, type: 3}
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: e1abf714eb722a54299140f9051d77f7, type: 2}
+    - {fileID: 11400000, guid: ff79d2810d0c62949ac445c650910cc8, type: 2}
